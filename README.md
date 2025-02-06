@@ -18,28 +18,28 @@
 
 Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 
-**Banco de Dados**
+**Banco de Dados**  
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
-**CI**
+**CI**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-**Sistemas Cloud**
+**Sistemas Cloud**  
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 
-**Ferramentas de Colaboração**
+**Ferramentas de Colaboração**  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff) ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 
-**Frameworks**
+**Frameworks**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
-**ORM**
+**ORM**  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff) 
 
-**O.S.**
+**O.S.**  
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
-**Linguagem de Programação**
+**Linguagem de Programação**  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)       
  
 ---
@@ -63,7 +63,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ### 🚀 [IAM](https://github.com/byMarinho/apiiam)
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <a href="https://github.com/byMarinho/apiiam">
-        <img src="./assets/img/iam.jpeg" width="350" height="200" style="flex-shrink: 0;">
+        <img src="./assets/img/iam.jpeg" width="250" height="200" style="flex-shrink: 0;">
     </a>
     <div>
         <p>API para Gerenciamento de Identidade e Acesso</p>
@@ -88,7 +88,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=byMarinho&show_icons=true&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=byMarinho&show_icons=true&theme=dark&hide_border=true">  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMarinho&layout=compact&theme=dark&hide_border=true">
 <hr>
