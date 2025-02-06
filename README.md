@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./assets/css/style.css">
 # 👋 Olá, eu sou Marinho! 
 
 *Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software, automação e soluções inovadoras. Aqui você encontrará alguns dos meus projetos, contribuições e experimentos. Fique à vontade para explorar e entrar em contato!*
@@ -49,7 +50,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 Aqui estão alguns dos meus projetos mais interessantes:
 
 ### 🚀 [Ariska](https://github.com/byMarinho/ariska)
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">   
+<div class="project">   
     <a href="https://github.com/byMarinho/ariska">
         <img src="./assets/img/ariska.jpeg" width="250" height="200" style="flex-shrink: 0;">
     </a>
@@ -61,7 +62,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 </div>
 
 ### 🚀 [IAM](https://github.com/byMarinho/apiiam)
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<div class="project">
     <a href="https://github.com/byMarinho/apiiam">
         <img src="./assets/img/iam.jpeg" width="250" height="200" style="flex-shrink: 0;">
     </a>
@@ -72,7 +73,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 </div>
 
 ### 🚀 [Filtria](#)
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<div class="project">
     <a href="#">
         <img src="./assets/img/filtria.jpeg" width="250" height="200" style="flex-shrink: 0;">
     </a>
