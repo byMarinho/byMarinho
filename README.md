@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="./assets/css/style.css">
-# 👋 Olá, eu sou Marinho! 
+# 👋 Olá, eu sou Mário! 
 
 *Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software, automação e soluções inovadoras. Aqui você encontrará alguns dos meus projetos, contribuições e experimentos. Fique à vontade para explorar e entrar em contato!*
 
@@ -52,7 +52,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ### 🚀 [Ariska](https://github.com/byMarinho/ariska)
 <div class="project">   
     <a href="https://github.com/byMarinho/ariska">
-        <img src="./assets/img/ariska.jpeg" width="250" height="200" style="flex-shrink: 0;">
+        <img src="./assets/img/ariska.jpeg" width="150" height="150" style="flex-shrink: 0;">
     </a>
     <div>
         <p>API para extração de áudio e vídeo do Youtube</p>
@@ -64,23 +64,11 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ### 🚀 [IAM](https://github.com/byMarinho/apiiam)
 <div class="project">
     <a href="https://github.com/byMarinho/apiiam">
-        <img src="./assets/img/iam.jpeg" width="250" height="200" style="flex-shrink: 0;">
+        <img src="./assets/img/iam.jpeg" width="150" height="150" style="flex-shrink: 0;">
     </a>
     <div>
         <p>API para Gerenciamento de Identidade e Acesso</p>
         <p><strong>Tecnologias utilizadas:</strong> Typescript, NestJS, TypeORM, Scalar Doc, Jest, PostgreSQL</p>
-    </div>
-</div>
-
-### 🚀 [Filtria](#)
-<div class="project">
-    <a href="#">
-        <img src="./assets/img/filtria.jpeg" width="250" height="200" style="flex-shrink: 0;">
-    </a>
-    <div>
-        <p>API que Aplica Filtro na Imagem</p>
-        <p>Frontend desenvolvido em Streamlit</p>
-        <p><strong>Tecnologias utilizadas:</strong> Selenium, GitHub Actions</p>
     </div>
 </div>
 
