@@ -55,7 +55,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <!-- Projeto Ariska -->
 <a href="https://github.com/byMarinho/ariska" style="text-decoration: none; color: inherit;">
-  <div align="center" style="width: 200px; min-height: 340px; border-radius: 16px; box-shadow: 0 2px 8px #0001; background:rgb(85, 84, 84); margin: 12px; padding: 18px 12px; display: inline-block; vertical-align: top;">
+  <div align="center" style="width: 250px; min-height: 340px; border-radius: 16px; box-shadow: 0 2px 8px #0001; background:rgb(85, 84, 84); margin: 12px; padding: 18px 12px; display: inline-block; vertical-align: top;">
     <img src="./assets/img/ariska.jpeg" width="120" height="120" style="border-radius: 12px; margin-bottom: 10px;" alt="Ariska logo">
     <h3>Ariska</h3>
     <p style="font-size: 0.95em;">API para extração de áudio e vídeo do Youtube</p>
@@ -71,7 +71,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <!-- Projeto IAM -->
 <a href="https://github.com/byMarinho/apiiam" style="text-decoration: none; color: inherit;">
-  <div align="center" style="width: 200px; min-height: 340px; border-radius: 16px; box-shadow: 0 2px 8px #0001; background: rgb(85, 84, 84); margin: 12px; padding: 18px 12px; display: inline-block; vertical-align: top;">
+  <div align="center" style="width: 250px; min-height: 340px; border-radius: 16px; box-shadow: 0 2px 8px #0001; background: rgb(85, 84, 84); margin: 12px; padding: 18px 12px; display: inline-block; vertical-align: top;">
     <img src="./assets/img/iam.jpeg" width="120" height="120" style="border-radius: 12px; margin-bottom: 10px;" alt="IAM logo">
     <h3>IAM</h3>
     <p style="font-size: 0.95em;">API para Gerenciamento de Identidade e Acesso</p>
