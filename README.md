@@ -1,8 +1,12 @@
 <link rel="stylesheet" href="./assets/css/style.css">
-# 👋 Olá, eu sou Mário! 
+# 👋 Olá, eu sou Mário!
 
-*Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software, automação e soluções inovadoras. Aqui você encontrará alguns dos meus projetos, contribuições e experimentos. Fique à vontade para explorar e entrar em contato!*
 
+- *Bem-vindo ao meu perfil do GitHub! Sou um profissional e eterno entusiasta da tecnologia, apaixonado por desenvolvimento de software, automação e soluções inovadoras. Aqui você encontrará alguns dos meus projetos, contribuições e experimentos.*
+
+```
+        print(f"Sinta-se à vontade para explorar meus projetos e contribuições!")
+```
 ---
 
 ## 🚀 Sobre Mim
@@ -47,30 +51,51 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 
 ## 🌟 Projetos Destacados
 
-Aqui estão alguns dos meus projetos mais interessantes:
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
 
-### 🚀 [Ariska](https://github.com/byMarinho/ariska)
-<div class="project">   
-    <a href="https://github.com/byMarinho/ariska">
-        <img src="./assets/img/ariska.jpeg" width="150" height="150" style="flex-shrink: 0;">
-    </a>
-    <div>
-        <p>API para extração de áudio e vídeo do Youtube</p>
-        <p>Frontend desenvolvido em Streamlit</p>
-        <p><strong>Tecnologias utilizadas:</strong> Python, Streamlit, FastAPI e Docker</p>
-    </div>
+<!-- Projeto Ariska -->
+<a href="https://github.com/byMarinho/ariska" style="text-decoration: none; color: inherit;">
+  <div align="center" style="width: 260px; min-height: 340px; border-radius: 16px; box-shadow: 0 2px 8px #0001; background: #181818; margin: 12px; padding: 18px 12px; display: inline-block; vertical-align: top;">
+    <img src="./assets/img/ariska.jpeg" width="120" height="120" style="border-radius: 12px; margin-bottom: 10px;" alt="Ariska logo">
+    <h3>Ariska</h3>
+    <p style="font-size: 0.95em;">API para extração de áudio e vídeo do Youtube</p>
+    <p><strong>Tecnologias:</strong></p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff">
+      <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+    </p>
+  </div>
+</a>
+
+<!-- Projeto IAM -->
+<a href="https://github.com/byMarinho/apiiam" style="text-decoration: none; color: inherit;">
+  <div align="center" style="width: 260px; min-height: 340px; border-radius: 16px; box-shadow: 0 2px 8px #0001; background: #181818; margin: 12px; padding: 18px 12px; display: inline-block; vertical-align: top;">
+    <img src="./assets/img/iam.jpeg" width="120" height="120" style="border-radius: 12px; margin-bottom: 10px;" alt="IAM logo">
+    <h3>IAM</h3>
+    <p style="font-size: 0.95em;">API para Gerenciamento de Identidade e Acesso</p>
+    <p><strong>Tecnologias:</strong></p>
+    <p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+      <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff">
+      <img src="https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff">
+      <img src="https://img.shields.io/badge/Scalar%20Doc-4F4F4F?logo=scalar&logoColor=fff">
+      <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff">
+    </p>
+  </div>
+</a>
+
 </div>
 
-### 🚀 [IAM](https://github.com/byMarinho/apiiam)
-<div class="project">
-    <a href="https://github.com/byMarinho/apiiam">
-        <img src="./assets/img/iam.jpeg" width="150" height="150" style="flex-shrink: 0;">
-    </a>
-    <div>
-        <p>API para Gerenciamento de Identidade e Acesso</p>
-        <p><strong>Tecnologias utilizadas:</strong> Typescript, NestJS, TypeORM, Scalar Doc, Jest, PostgreSQL</p>
-    </div>
-</div>
+## <img src="https://img.shields.io/badge/-🤝-gray" width="28" style="vertical-align: middle;"/> Projetos Voluntários
+
+| Projeto   | GitHub | Link da API |
+|-----------|--------|-------------|
+| *eGeu*    | *[unnamedOrg/egeu-api](https://github.com/unnamedorg2024/egeu-api/tree/develop)* | *[https://egeuapi.bymario.dev/docs](https://egeuapi.bymario.dev/docs)* |
+|        |  |  |
+
 
 ---
 
@@ -80,15 +105,6 @@ Aqui estão alguns dos meus projetos mais interessantes:
 <img src="https://github-readme-stats.vercel.app/api?username=byMarinho&show_icons=true&theme=dark&hide_border=true">  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMarinho&layout=compact&theme=dark&hide_border=true">
-<hr>
-</div>
-
-
-## 🎥 Bem-Vindos
-<div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5vaWpkd2U3djBhaWxlcXk5cWs4NnZsazJpNTh0dnBjczdzM2V1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif">
-
-*Sinta-se à vontade para explorar meus projetos e contribuições!*
 <hr>
 </div>
 
